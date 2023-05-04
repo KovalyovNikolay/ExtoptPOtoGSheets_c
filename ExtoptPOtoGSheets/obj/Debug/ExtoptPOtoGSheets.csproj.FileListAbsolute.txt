@@ -1,0 +1,7 @@
+D:\Proj\CODE\C#\WTL_ImportPO\ConsoleExportPO\ExtoptPOtoGSheets_c\ExtoptPOtoGSheets\obj\Debug\ExtoptPOtoGSheets.csproj.AssemblyReference.cache
+D:\Proj\CODE\C#\WTL_ImportPO\ConsoleExportPO\ExtoptPOtoGSheets_c\ExtoptPOtoGSheets\obj\Debug\ExtoptPOtoGSheets.csproj.CoreCompileInputs.cache
+D:\Proj\CODE\C#\WTL_ImportPO\ConsoleExportPO\ExtoptPOtoGSheets_c\ExtoptPOtoGSheets\bin\Debug\ExtoptPOtoGSheets.exe.config
+D:\Proj\CODE\C#\WTL_ImportPO\ConsoleExportPO\ExtoptPOtoGSheets_c\ExtoptPOtoGSheets\bin\Debug\ExtoptPOtoGSheets.exe
+D:\Proj\CODE\C#\WTL_ImportPO\ConsoleExportPO\ExtoptPOtoGSheets_c\ExtoptPOtoGSheets\bin\Debug\ExtoptPOtoGSheets.pdb
+D:\Proj\CODE\C#\WTL_ImportPO\ConsoleExportPO\ExtoptPOtoGSheets_c\ExtoptPOtoGSheets\obj\Debug\ExtoptPOtoGSheets.exe
+D:\Proj\CODE\C#\WTL_ImportPO\ConsoleExportPO\ExtoptPOtoGSheets_c\ExtoptPOtoGSheets\obj\Debug\ExtoptPOtoGSheets.pdb
